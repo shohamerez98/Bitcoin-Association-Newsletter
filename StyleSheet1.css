@@ -1,0 +1,61 @@
+﻿
+.NavBar {
+    height: 300px;
+    font-family: 'Noto Sans Hebrew', sans-serif;
+    background-color: steelblue;
+    height: 120px;
+    color: white;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-content: stretch;
+}
+h3{
+    text-decoration: underline;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align:center;
+}
+.logo {
+    text-align: center;
+    background-size: cover;
+}
+.links {
+    font-family: 'Noto Sans Hebrew', sans-serif;
+    text-align: right;
+    font-size: 18px;
+    color:white;
+}
+
+.links:hover{
+    color: black;
+}
+body {
+    font-family: 'Noto Sans Hebrew', sans-serif;
+    background-color: white;
+}
+
+.List {
+    display: inline-block;
+    text-align: right;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.TopNews {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.Footer{
+    background-color: steelblue;
+    height: 100px;
+    text-align: center;
+    color: white;
+}
